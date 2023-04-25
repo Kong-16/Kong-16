@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<a href="http://solved.ac/math0917"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=math0917"/></a>
 <!--
 **Kong-16/Kong-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
